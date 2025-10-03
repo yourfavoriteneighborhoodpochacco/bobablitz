@@ -35,7 +35,8 @@ The full game, including binaries and large asset files, is **not currently uplo
 - **File size limitations** on GitHub (Unreal Engine produces very large compiled files)  
 - **Sensitive files and keys** included in engine plugins that cannot be publicly shared  
 - Ongoing development—assets and builds are still being polished  
-
+* I'm currently having difficulty uploading my code and source files to the repository due to issues with GitHub LFS and various Unreal Engine assets not properly being filtered in the .gitignore
+  
 This repository currently contains **source files, project configuration, and content assets** that are safe to share publicly. These files allow developers to explore the structure of the project or contribute to development without exposing large binaries or sensitive information.  
 
 ---
